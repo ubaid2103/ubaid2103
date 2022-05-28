@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ubaid2103
+- 👀 I move forward, always.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on life
+- 📫 How to reach me, Please don't.
